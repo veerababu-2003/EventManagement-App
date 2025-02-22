@@ -10,7 +10,7 @@
 
 ## 📸 Preview
 
-![Event Management App Screenshot](Screenshot (2).png)
+![Event Management App Screenshot](Screenshot.png)
 
 ---
 
